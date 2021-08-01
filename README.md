@@ -9,6 +9,9 @@
 ## OS
 
 macOS Big Sur 11.5.1
+<img src=https://github.com/hunn1/z490ud-10700k/blob/main/images/001.png>
+
+<img src=https://github.com/hunn1/z490ud-10700k/blob/main/images/002.png>
 
 
 
@@ -28,6 +31,6 @@ macOS Big Sur 11.5.1
 
 ## Credits
 
-<a href=https://github.com//Gigabyte-Z490-UD-OC>ubune</a><br>
+<a href=https://github.com/tiny0little/Gigabyte-Z490-UD-OC>ubune</a><br>
 
 

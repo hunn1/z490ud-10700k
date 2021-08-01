@@ -36,6 +36,9 @@ macOS Big Sur 11.5.1
 ### cinebench
 <img src=https://github.com/hunn1/z490ud-10700k/blob/main/images/cinebench.jpg>
 
+### htop
+<img src=https://github.com/hunn1/z490ud-10700k/blob/main/images/htop.png>
+
 
 ## What Works
 

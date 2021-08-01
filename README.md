@@ -42,10 +42,10 @@ macOS Big Sur 11.5.1
 - Sleep
 - USB
 - Audio
-- Ethernet
-- WiFi/Bluetoth with Fenvi FV-A436CD (Chipest: Broadcom BCM94360CD)
-- AirDrop
-- iMessages {dont forget to generate PlatformInfo -> SystemSerialNumber, SystemUUID, MLB}
+- Ethernet （RTL8111 100M）
+- USB Bluetoth (免驱的)
+- AirDrop （能用是正常的）
+- iMessages {记得换三码，不换原地爆炸}
 - HDMI Audio
 - HIDPI 
 
@@ -53,6 +53,6 @@ macOS Big Sur 11.5.1
 
 ## Credits
 
-<a href=https://github.com/tiny0little/Gigabyte-Z490-UD-OC>ubune</a><br>
+<a href=https://github.com/tiny0little/Gigabyte-Z490-UD-OC>tiny0little/Gigabyte-Z490-UD-OC</a><br>
 
 

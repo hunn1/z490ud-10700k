@@ -47,7 +47,7 @@ macOS Big Sur 11.5.1
 - AirDrop
 - iMessages {dont forget to generate PlatformInfo -> SystemSerialNumber, SystemUUID, MLB}
 - HDMI Audio
-
+- HIDPI 
 
 
 

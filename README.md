@@ -5,6 +5,35 @@
 
 0.7.1
 
+# Comet Lake（桌面端，第十代酷睿）
+
+Comet Lake 平台建议安装 macOS 10.15.5 及以上
+BIOS 设置
+
+
+## 关闭
+
+Fast Boot
+Secure Boot
+VT-d（可以开启，前提是 DisableIoMapper 设置为 Yes）
+CSM
+Thunderbolt（全新安装时不当配置雷电接口可能造成问题，建议安装完成后再开启调试）
+Intel SGX Intel Platform Trust
+Intel Platform Trust
+CFG Lock（MSR 0xE2 写保护）此项必须关闭，如果你的 BIOS 里没有此项，注意设置 AppleCpuPmCfgLock 和 Apple XcpmCfgLock 为 Yes。
+
+
+## 开启
+
+
+VT-x
+Above 4G decoding
+Hyper-Threading
+Execute Disable Bit
+EHCI/XHCI Hand-off
+OS type：Other（如果你选择 Other 会导致 CSM 联动开启，选择 Windows 8.1/10 UEFI Mode）
+DVMT Pre-Allocated：64MB 及以上
+
 
 # BIOS Features
 ## Disabled

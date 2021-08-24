@@ -34,6 +34,21 @@ EHCI/XHCI Hand-off
 OS type：Other（如果你选择 Other 会导致 CSM 联动开启，选择 Windows 8.1/10 UEFI Mode）
 DVMT Pre-Allocated：64MB 及以上
 
+## setting 
+OS Mode: Other OS with UEFI Only or, Windows 8/10 (CSM Disabled)
+
+Secure Boot: Disabled
+
+Aboce 4G Decode: Enabled
+
+Resizable BAR: Disabled
+
+SuperIO: Disabled
+
+VD-x: Enabled
+
+VT-d: You can leave it disabled or enable it if you need it for Other OS. (MacOS can't/doesn't use VT-d)
+
 
 # BIOS Features
 ## Disabled

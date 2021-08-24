@@ -6,6 +6,25 @@
 0.7.1
 
 
+# BIOS Features
+## Disabled
+
+Fast Boot
+Secure Boot
+VT-d
+SuperIO
+Serial Port [ fixes stuttering ]
+Legacy USB Support
+
+## Enabled
+
+4G Decoding
+Re-size BAR support: Auto
+Hyper-threading
+CSM Support [my system won't properly boot without this on due to the GPU]
+Windows 10 Features: Other
+Storage Boot Option Control - UEFI
+
 ## OS
 
 macOS Big Sur 11.5.1
